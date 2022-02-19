@@ -18,7 +18,6 @@ import igraph as ig
 from time import time
 import os
 
-
 class ConsensusClustering:
 
     """

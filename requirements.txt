@@ -7,3 +7,4 @@ leidenalg
 python-Levenshtein
 matplotlib
 seaborn
+sphinx_rtd_theme
