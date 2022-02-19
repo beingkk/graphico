@@ -1,0 +1,9 @@
+cmake
+pandas
+numpy
+scikit-learn
+python-igraph
+leidenalg
+python-Levenshtein
+matplotlib
+seaborn
