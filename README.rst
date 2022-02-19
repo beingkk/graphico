@@ -1,5 +1,5 @@
 ========
-graphico
+graphico [UNDER CONSTRUCTION]
 ========
 
 
@@ -21,7 +21,6 @@ graphico
 
 
 Graph-based hierarchical consensus clustering
-
 
 * Free software: MIT license
 * Documentation: https://graphico.readthedocs.io.
